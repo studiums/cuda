@@ -18,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
   <component name="ProjectId" id="1j6QXcCH79iuBuZt7niCksGuHDw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,6 +31,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -46,6 +51,7 @@
       <workItem from="1603517341429" duration="2803000" />
       <workItem from="1603664347256" duration="818000" />
       <workItem from="1603708214515" duration="1360000" />
+      <workItem from="1603711376390" duration="876000" />
     </task>
     <servers />
   </component>
@@ -57,5 +63,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603341455779" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1603712240001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603712240001" />
   </component>
 </project>
